@@ -1,0 +1,15 @@
+{
+  "name": "floof",
+  "version": "0.0.1",
+  "description": "Pretty human readable data. Makes you feel all floof inside!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "Luxizzle",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.18.1"
+  }
+}
